@@ -1,3 +1,4 @@
+print("Luas Persegi")
 a = float(input("masukan panjang: "))
 b = float(input("masukan lebar: "))
 
